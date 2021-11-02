@@ -1,0 +1,5 @@
+data/cifar-10-python.tar.gz
+data/PennFudanPed.zip
+model/cifar_lenet.pth
+data/*
+__pycache__/PennFudanDataset.cpython-39.pyc
